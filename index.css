@@ -1,0 +1,56 @@
+a:hover,a:focus {
+    color: #26ae61
+}
+
+
+.Dialoge {
+    margin: 100px 20px 40px 20px;
+    padding: 20px;
+    /* border: 1px solid #ccc; */
+    border-radius: 5px;
+}
+
+.intro-rightside{
+    width: 500px;
+    margin: 40px 40px 40px 40px;
+    padding: 20px;
+}
+
+.career-search{
+    margin: 20px 0px 20px 0px;
+}
+
+.btn {
+    background-color: #26ae61;
+    border: none; 
+    color: white; 
+    padding: 8px 11px; 
+    font-size: 14px; 
+    cursor: pointer;
+  }
+.btn:hover {
+    background-color: #26ae61;
+  }
+
+#dialogeH1 {
+    margin-bottom: 30px;
+    font-family: Comic Sans MS, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+
+p {
+    font-size: 14px;
+    color:#9a9a9a;
+    line-height: 26px;
+    font-family: rubik, sans-serif;
+    margin-bottom: 0;
+}
+
+h6 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+

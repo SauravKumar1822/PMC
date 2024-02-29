@@ -1,0 +1,14 @@
+{
+  "name": "plan_my_carrer",
+  "version": "1.0.0",
+  "description": "a website project by me(Saurav) for users to plan carrer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saurav Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}

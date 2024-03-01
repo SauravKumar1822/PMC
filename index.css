@@ -111,6 +111,19 @@ a:hover,a:focus {
     font-weight: 400;
 }
 
+.resume-interview-item{
+    margin: 20px 0 20px 0;
+    padding: 20px;
+    text-align: center;
+}
+
+#line-icons-id-1{
+    font-family: lineicons !important;
+    font-style: normal;
+    font-size: 40px;
+    color: #26ae61;
+}
+
 p {
     font-size: 14px;
     color:#9a9a9a;

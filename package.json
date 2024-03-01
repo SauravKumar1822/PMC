@@ -9,6 +9,7 @@
   "author": "Saurav Kumar",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.3.3"
+    "bootstrap": "^5.3.3",
+    "lineicons": "^1.0.3"
   }
 }

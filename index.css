@@ -4,16 +4,23 @@ a:hover,a:focus {
 
 
 .Dialoge {
-    margin: 100px 20px 40px 20px;
-    padding: 20px;
+    margin: 80px 10px 40px 0px;
+    padding: 10px;
     /* border: 1px solid #ccc; */
     border-radius: 5px;
 }
 
+#dialogeH1 {
+    margin-bottom: 30px;
+    font-family: Comic Sans MS, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+
 .intro-rightside{
     width: 500px;
-    margin: 40px 40px 40px 40px;
-    padding: 20px;
+    margin: 40px 40px 40px 0px;
+    padding: 10px;
 }
 
 .career-search{
@@ -32,13 +39,44 @@ a:hover,a:focus {
     background-color: #26ae61;
   }
 
-#dialogeH1 {
-    margin-bottom: 30px;
+.Browse-categories-header{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.Browse-category-image img{
+    height: 70px;
+    width: 70px;
+    margin-bottom: 10px;
+}
+
+.Browse-category-item{
+    text-align: center;
+    padding: 20px;
+    margin: 10px 0px 10px 0px;
+}
+
+.Browse-category-item h3{
+    font-size: 18px;
+    line-height: 32px;
     font-family: Comic Sans MS, sans-serif;
-    font-size: 40px;
     font-weight: 700;
 }
 
+.Browse-category-item a{
+    text-decoration: none;
+    color: #333;
+}
+
+.Browse-category-btn{
+    width: 100%;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+    color: #000;
+    font-family: Comic Sans MS, sans-serif;
+    text-decoration: none;
+}
 
 p {
     font-size: 14px;

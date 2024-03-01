@@ -79,12 +79,18 @@ a:hover,a:focus {
 }
 
 .carrer-option-div{
-    margin: 100px 60px 50px 60px;
+    margin: 70px 60px 50px 60px;
     padding: 10px;
 }
 
 .carrer-option-leftdiv{
-    margin: 20px 0px 20px 0px;
+    margin: 0px 0px 20px 0px;
+    text-align: center;
+    padding: 10px;
+}
+
+.carrer-option-rightdiv{
+    margin: -70px 0px 40px -40px;
     text-align: center;
     padding: 10px;
 }

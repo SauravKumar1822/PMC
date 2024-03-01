@@ -124,10 +124,53 @@ a:hover,a:focus {
     color: #26ae61;
 }
 
+#playstore-download-id{
+    background-color: #f9fcff;
+}
+
+#copyright-id{
+    background-color: #26ae61;
+    padding: 20px;
+    text-align: center;
+}
+
+.copyright-text p{
+    color: white;
+}
+
+.footer{
+    padding: 20px 80px 20px 80px;
+    text-align: center;
+    background-color: #24324a;
+}
+
+.footer-logo{
+    margin-left: 40px;
+    padding: 20px;
+}
+
+.footer-link-title{
+    color: white;
+    margin-bottom: 10px;
+}
+
 p {
     font-size: 14px;
     color:#9a9a9a;
     line-height: 26px;
     font-family: rubik, sans-serif;
     margin-bottom: 0;
+}
+
+ul li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #8a99b3;
+}
+
+i{
+    font-style: normal;
 }
